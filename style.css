@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Press+Start+2P&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+}
+
+.bg {
+background-image: url(https://media4.giphy.com/media/Fbox1ygIqnga5dLinz/giphy.gif?cid=ecf05e47lg0a2ks7tlwksfncfyg6cakmx9rtua5o9a1ampur&rid=giphy.gif&ct=g);
+background-repeat: repeat-y;
+background-size: cover;
+background-position: center;
+height: 757px;
+width: 100%;
+}
+
+header {
+    text-align: center;
+}
+
+h5 {
+    margin: 20px;
+    margin-bottom: 0;
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+}
+
+.box {
+    width: 100%;
+    text-align:justify;
+    border: 5px solid black;
+    display: inline-block;
+}
+
+.boxx {
+    width: 575px;
+    height: 100px;
+    line-height: 80px;
+    text-align: center;
+    margin: 10px;
+    border: 3px solid black;
+    display: inline-block;
+    vertical-align: baseline;
+    opacity: 0.8;
+}
+
+.laisvalaikis {
+    background: #5BB318
+}
+
+.pasauleziura {
+    background: #5680E9
+}
+
+.biografija {
+    background: orange;
+}
